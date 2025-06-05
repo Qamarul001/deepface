@@ -1,6 +1,6 @@
 streamlit
-opencv-python
-numpy
-requests
-deepface
+opencv-python-headless
+deepface==0.0.79
+tensorflow==2.11.0
+protobuf==3.20.*
 scikit-learn
